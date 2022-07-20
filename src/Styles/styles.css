@@ -1,0 +1,6 @@
+.nav-link:hover, .nav-link:focus{
+    border-bottom: 5px solid #1777fd;
+}
+#option{
+    border-bottom: 2px solid grey;
+}
